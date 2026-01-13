@@ -1,6 +1,6 @@
 # ========== Core ==========
 fastapi==0.111.0
-uvicorn[standard]==0.29.0
+uvicorn[standard]==0.40.0
 pydantic==2.7.3
 pydantic-settings==2.3.0
 
