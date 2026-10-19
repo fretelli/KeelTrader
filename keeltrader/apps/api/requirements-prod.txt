@@ -19,7 +19,7 @@ anthropic==0.85.0
 pydantic-ai-slim==2.0.0b6
 
 # ========== MCP ==========
-mcp==1.28.1
+mcp==1.30.0
 sse-starlette==3.0.3
 
 # ========== HTTP ==========
